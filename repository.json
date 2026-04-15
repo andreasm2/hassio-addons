@@ -1,5 +1,5 @@
 {
-  "name": "Home Assistant Add-ons by mtrossbach",
-  "url": "https://github.com/mtrossbach/hassio-addons",
-  "maintainer": "mtrossbach"
+  "name": "AndreasM2 Home Assistant Add-ons - Bugfix new DOCKER build HA OS - intented as intermediate fix only - not meant to remain out there for long",
+  "url": "https://github.com/andreasm2/hassio-addons",
+  "maintainer": "andreasm2"
 }
